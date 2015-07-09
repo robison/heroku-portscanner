@@ -1,0 +1,7 @@
+{
+  "name": "heroku-portscanner",
+  "description": "API-enabled port scanning from Heroku",
+  "repository": "https://github.com/robison/heroku-portscanner",
+  "keywords": ["security", "portscanning", "nmap"],
+  "addons": ["papertrail:choklad", "mongolab:sandbox"]
+}
